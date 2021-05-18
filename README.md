@@ -13,7 +13,7 @@
   - [ ] SignUp Checklist: MBTI와 음식취향(ex.민초파, 파인애플피자 등등) 체크리스트를 통해 친구의 성향 파악하기
   
 ### Team(SDT(SecretDiaryTeam))
-|부원|Github ID|
+|Name|Github ID|
 |-----|---------|
 |박채연|chaeyeon09|
 |방석진|leobang17|
