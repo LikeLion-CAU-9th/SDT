@@ -1,4 +1,4 @@
-# 온새미로(ONSAEMIRO)
+# 온새미로(ONSAEMIRO)📔
 
 > 가르거나 쪼개지 않고 생긴 그대로 온통으로.
 
@@ -7,10 +7,10 @@
 
 ### Main Function
 
-  - [ ] Today's Question: 오늘의 질문을 바탕으로 친구와 함께 일기 쓰기
+  - [ ] Today's Question: 오늘의 질문을 바탕으로 친구와 함께 일기 쓰기✍️
   - [ ] Shuffle: 과거의 일기가 궁금하다면 버튼을 눌러주세요! 랜덤으로 띄워드립니다!
-  - [ ] Music-tag: 오늘의 기분을 노래로 표현해보아요~
-  - [ ] SignUp Checklist: MBTI와 음식취향(ex.민초파, 파인애플피자 등등) 체크리스트를 통해 친구의 성향 파악하기
+  - [ ] Music-tag: 오늘의 기분을 노래로 표현해보아요~🎵
+  - [ ] SignUp Checklist: MBTI와 음식취향(ex.민초파🍵, 파인애플피자🍍🍕 등등) 체크리스트를 통해 친구의 성향 파악하기
   
 ### Team(SDT(SecretDiaryTeam))
 |Name|Github ID|
