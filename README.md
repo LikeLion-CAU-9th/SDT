@@ -4,6 +4,8 @@
 
 어릴 적 친구와 했던 교환 일기장을 모티브로 한 **온라인 레트로 교환 일기** 서비스
 
+![Uploading image.png…]()
+
 
 ### Main Function
 
