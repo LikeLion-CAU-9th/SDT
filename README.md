@@ -3,7 +3,7 @@
 > 가르거나 쪼개지 않고 생긴 그대로 온통으로.
 
 어릴 적 친구와 했던 교환 일기장을 모티브로 한 **온라인 레트로 교환 일기** 서비스
-![image](https://user-images.githubusercontent.com/62995632/118665353-33fa1a80-b82d-11eb-9dd1-d3d2a60540a9.png)
+![image](https://user-images.githubusercontent.com/62995632/118666167-e92cd280-b82d-11eb-87b9-7b88bb4a0eaf.png)
 
 
 
